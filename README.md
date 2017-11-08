@@ -12,7 +12,7 @@
     - Suit: Club, Diamond, Heart, Spade
 - Add Method:
     - 修改Constructor，創建物件時，需要填入參數(Suit s, int value)
-    - 修改public void printCard (); 範例：Spade 1
+    - 修改public void printCard (); 範例：Spade Ace
     - 因應Suit修改，原有getSuit(); 方法的return type 要修正
 
 
